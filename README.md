@@ -26,7 +26,7 @@ This analysis serves as a foundation for building more advanced systems, such as
 * **Python**
 * **Pandas** – Data wrangling and manipulation
 * **Matplotlib, Seaborn** – Data visualization
-* **Colab Notebook** – Interactive analysis and visualization
+* **Jupyer Notebook** – Interactive analysis and visualization
 
 
 ```
@@ -37,4 +37,4 @@ This analysis serves as a foundation for building more advanced systems, such as
 * Tracked the most recent movie watched and the time of viewing.
 * Analyzed patterns in viewing frequency over time (e.g., peak watch hours or days).
 * Created visualizations to highlight behavior trends and preferences.
-?
+
